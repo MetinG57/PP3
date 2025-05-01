@@ -113,10 +113,8 @@ For more detailed information on SVG structure and elements, you can refer to th
 
 <details>
     <summary> Your SVG Code </summary>
-    <code>
    Den Code habe ich als Nachweis hochgeladen da es sonst hier nicht korrekt angezeigt wird. 
-         ![PP3 Aufgabe 1](https://github.com/user-attachments/assets/1ae0fa04-0389-4d5d-9306-a115a8fa4bf0)
-    </code>
+![PP3_Aufgabe1](https://github.com/user-attachments/assets/926d4947-be44-4587-a7b2-bf702c60aa2f)
 </details>
 
 ### Task 2: Markdown
