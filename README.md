@@ -114,7 +114,7 @@ For more detailed information on SVG structure and elements, you can refer to th
 <details>
     <summary> Your SVG Code </summary>
    Den Code habe ich als Nachweis hochgeladen da es sonst hier nicht korrekt angezeigt wird. 
-![PP3_Aufgabe1](https://github.com/user-attachments/assets/926d4947-be44-4587-a7b2-bf702c60aa2f)
+![PP3_Aufgabe1](https://github.com/MetinG57/PP3/blob/fa4f757608741fdc7a148d0bf0490434807e2d57/PP3%20Aufgabe%201.png)
 </details>
 
 ### Task 2: Markdown
