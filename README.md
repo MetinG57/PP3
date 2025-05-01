@@ -1,4 +1,4 @@
-# PP3 
+# PP3  
 
 ## Goal
 In this exercise, we will explore how to handle, render and display text-based information from our terminal.
